@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-snippet",
+  "version": "1.0.0",
+  "description": "Nodejs useful code snippet",
+  "main": "node-simple-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajithshettyy/nodejs-snippet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajithshettyy/nodejs-snippet/issues"
+  },
+  "homepage": "https://github.com/ajithshettyy/nodejs-snippet#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
